@@ -1,4 +1,4 @@
-- Hi, I'm @ERN468
+- Hi, I'm ERN468
 - I program stuff sometimes.
 
 <!---
