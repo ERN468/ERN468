@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ERN468
-- 👀 I’m interested in minecraft modding
-- 🌱 I’m currently learning how to mod
-- 💞️ I’m looking to collaborate on nothing, im a lone wolf (not a furry btw)
-- 📫 How to reach me go away
+- Hi, I'm @ERN468
+- I program stuff sometimes.
 
 <!---
 ERN468/ERN468 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
